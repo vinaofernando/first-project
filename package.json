@@ -1,0 +1,20 @@
+{
+  "name": "js-alura",
+  "version": "1.0.0",
+  "description": "Projeto teste alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaofernando/first-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/vinaofernando/first-project/issues"
+  },
+  "homepage": "https://github.com/vinaofernando/first-project#readme"
+}
